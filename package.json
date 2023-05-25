@@ -1,0 +1,29 @@
+{
+  "name": "send-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castrothais/send-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castrothais/send-email/issues"
+  },
+  "homepage": "https://github.com/castrothais/send-email#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
